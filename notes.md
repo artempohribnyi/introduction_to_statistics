@@ -34,11 +34,19 @@ In this module, you will look at the main concepts for sampling and designing ex
 
 ![image](https://github.com/artempohribnyi/introduction_to_statistics/assets/113499718/331f8418-eab5-43e5-9fe8-4e5d89755bf5)
 
+## Randomized Controlled Experiments and Observation Studies
 
+![image](https://github.com/artempohribnyi/introduction_to_statistics/assets/113499718/4c3355db-f078-4a10-af78-dfe4d872ae9e)
 
+![image](https://github.com/artempohribnyi/introduction_to_statistics/assets/113499718/ae39b1f0-55e3-47af-823c-b9048c35b687)
 
+![image](https://github.com/artempohribnyi/introduction_to_statistics/assets/113499718/e3070278-1219-4254-8dfd-9bed05d317eb)
 
+![image](https://github.com/artempohribnyi/introduction_to_statistics/assets/113499718/df50f928-0059-4d01-bc40-b7c8d865704e)
 
+![image](https://github.com/artempohribnyi/introduction_to_statistics/assets/113499718/5087a601-4a03-4176-8eec-13e25407f967)
+
+![image](https://github.com/artempohribnyi/introduction_to_statistics/assets/113499718/a15530f6-3f5c-4db6-8c63-ed28cfbb16bf)
 
 
 
