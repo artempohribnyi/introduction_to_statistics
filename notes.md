@@ -9,7 +9,7 @@ Topics include Descriptive Statistics, Sampling and Randomized Controlled Experi
 
 In this module, you will look at the main concepts for sampling and designing experiments. You will learn about curious pitfalls and how to evaluate the effectiveness of such experiments.
 
-##Learning Objectives
+## Learning Objectives
 
 * Understanding the basics of statistical inference, sampling and designing experiments
 * Getting familiar with the main pitfalls of sampling
