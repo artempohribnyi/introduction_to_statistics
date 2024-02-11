@@ -7,6 +7,22 @@ Stanford's "Introduction to Statistics" teaches you statistical thinking concept
 
 Topics include Descriptive Statistics, Sampling and Randomized Controlled Experiments, Probability, Sampling Distributions and the Central Limit Theorem, Regression, Common Tests of Significance, Resampling, Multiple Comparisons.
 
+# Introduction and Descriptive Statistics for Exploring Data
+
+This module provides an overview of the course and a review of the main tools used in descriptive statistics to visualize information.
+
+## Learning Objectives
+
+* Understanding the basics of descriptive statistics and its tools
+* Getting familiar with important principles for visualizing information
+* Ability to apply knowledge and understand descriptive statistics of real data
+
+
+
+
+
+
+
 # Producing Data and Sampling
 
 In this module, you will look at the main concepts for sampling and designing experiments. You will learn about curious pitfalls and how to evaluate the effectiveness of such experiments.
